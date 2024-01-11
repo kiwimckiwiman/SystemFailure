@@ -1,0 +1,120 @@
+﻿  Boss.cpp
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Boss.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Boss.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BossRoom.cpp
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Boss.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\BossRoom.cpp(103,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\BossRoom.cpp(115,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  BufferRoom.cpp
+  Character.cpp
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Character.cpp(89,13): warning C4804: '<': unsafe use of type 'bool' in operation
+  EnemyRoom.cpp
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Minion.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\EnemyRoom.cpp(109,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\EnemyRoom.cpp(121,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Factory.cpp
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Minion.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\MiniBoss.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  FileDLL.cpp
+  FileDLLNode.cpp
+  Folder.cpp
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\MiniBoss.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(2824,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(2664): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*>(_Iter,const _Iter)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(2664): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*>(_Iter,const _Iter)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Folder.cpp(26): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Folder.cpp(26): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  HealthRoom.cpp
+  Iterator.cpp
+  MiniBoss.cpp
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\MiniBoss.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\MiniBoss.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MiniBossRoom.cpp
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\MiniBoss.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\MiniBossRoom.cpp(160,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\MiniBossRoom.cpp(172,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Minion.cpp
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Minion.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Minion.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Minion.cpp(10,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Entity.cpp
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Entity.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Entity.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Main.cpp
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Minion.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\MiniBoss.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Boss.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Main.cpp(60,10): warning C4129: 'P': unrecognized character escape sequence
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(2824,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(2664): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*>(_Iter,const _Iter)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(2664): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*>(_Iter,const _Iter)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Main.cpp(25): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Main.cpp(25): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  Room.cpp
+  Skill.cpp
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Skill.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SpecNode.cpp
+  SpecList.cpp
+  Generating Code...
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\MiniBossRoom.cpp(80): warning C4715: 'MiniBossRoom::Start': not all control paths return a value
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Factory.cpp(84): warning C4715: 'Factory::GenerateRoom': not all control paths return a value
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Factory.cpp(68): warning C4715: 'Factory::CreateEnemyRoom': not all control paths return a value
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Factory.cpp(38): warning C4715: 'Factory::CreateEnemy': not all control paths return a value
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Factory.cpp(160): warning C4715: 'Factory::CreateFolder': not all control paths return a value
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Factory.cpp(174): warning C4715: 'Factory::CreateMiniBoss': not all control paths return a value
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Factory.cpp(188): warning C4715: 'Factory::CreateMiniBossRoom': not all control paths return a value
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\EnemyRoom.cpp(68): warning C4715: 'EnemyRoom::Start': not all control paths return a value
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\Character.cpp(105): warning C4715: 'Character::Attack': not all control paths return a value
+K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\Project1\BossRoom.cpp(30): warning C4715: 'BossRoom::Start': not all control paths return a value
+  Compiling...
+  SpecRoom.cpp
+  Generating Code...
+  Project1.vcxproj -> K:\Swinburne stuff\Semester 4\COS30008 (Data Structures and Patterns)\Project\Project1\x64\Debug\Project1.exe
